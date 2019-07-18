@@ -65,38 +65,29 @@ section.attention{
   display: table;
   background-color: #fff;
   padding:0 0 0 10px;
-  max-width: 1100px;
-
 }
 .attention .upcoming h2{
   text-align:center;
 }
 .attention .upcoming{
+  padding:0 7em 0 0;
   display: table-cell;
-  min-width: 364px;
-}
-.attention .resources h2{
-  text-align:center;
-
+  border-right:1px solid white;
 }
 .attention .resources{
-  text-align:center;
-
 display: table-cell;
-min-width: 364px;
-
+padding:0 7em 0;
+border-right:1px solid white;
 }
 .attention .reminders{
   display: table-cell;
   width:100%;
-  min-width: 364px;
-
 }
 .attention .reminders h2{
-  text-align:center;
-
+  padding: 0 0 0 7em ;
 }
 .attention .reminders p{
+  padding: 0 4em 0 4em;
 }
 .recommentations{
   display: table;
